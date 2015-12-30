@@ -62,8 +62,7 @@ module.exports = _.merge({
              * You should update this section with some test input for testing your module
              */
             input: {
-                //Replace VAR1 with the name of an expected input, and add more inputs as needed.
-                VAR1: 'foo'
+                locations: '40.714728,-73.998672|-34.397,150.644'
             }
         }
     }

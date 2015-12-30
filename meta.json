@@ -4,23 +4,31 @@
 {
     //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "locations",
+            "title":"Locations"
+        },
+        {
+            "id": "path",
+            "title":"Path"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
-      //e.g.
-      /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "location",
+            "ti
+            tle":"Location"
+        },
+        {
+            "id": "elevation",
+            "title":"Elevation"
+        },
+        {
+            "id": "resolution",
+            "title":"Resolution"
         }
-      */
     ],
+    "icon": "dex-gmaps",
     "title": "Google Maps Get Elevation" /* Required.A display name for the module */
 }
