@@ -1,13 +1,17 @@
 {
-  "name": "google-maps-get-elevation",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "author": "Alexander",
-  "license": "ISC",
-  "private": true,
-  "dependencies": {
-    "googlemaps": "^1.0.2",
-    "lodash": "^3.10.1"
-  }
+   "name": "google-maps-get-elevation",
+   "version": "0.0.1",
+   "description": "Get a location's elevation",
+   "main": "index.js",
+   "author": "Run Dexter, Inc",
+   "license": "MIT",
+   "private": true,
+   "dependencies": {
+      "googlemaps": "^1.0.2",
+      "lodash": "^3.10.1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rundexter/googlemaps-get-elevation"
+   }
 }
